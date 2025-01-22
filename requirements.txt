@@ -1,0 +1,11 @@
+# Integrating Data Analysis Tools
+pandas
+
+# Integrating Data Visualization Tools
+# seaborn
+# matplotlib
+
+# Integrating Jupyter Notebooks
+ipytest     # Pytest in Jupyter notebooks
+ipykernel
+jupyter
